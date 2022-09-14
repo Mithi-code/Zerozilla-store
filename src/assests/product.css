@@ -1,0 +1,21 @@
+.cards {
+  width: 30%;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5);
+}
+
+.product-img {
+  width: 80%;
+  height: 70%;
+}
+
+.product-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
